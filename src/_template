@@ -1,0 +1,50 @@
+<template>
+    <section class="myComponent"></section>
+</template>
+
+<script lang="ts">
+
+import { Component, Vue } from 'vue-property-decorator';
+
+@Component({})
+export default class MyComponent extends Vue {}
+
+</script>
+
+<style lang="scss" scoped>
+
+</style>
+
+------------------------------------------------------------------------------
+
+import { ActionContext } from 'vuex';
+
+//#region INTERFACES
+interface IStoreState {
+    displayName: string;
+}
+//#endregion
+
+const $state: IStoreState = {
+    displayName: ''
+};
+
+const $getters = {
+    
+};
+
+const $actions = {
+    
+};
+
+const $mutations = {
+    
+};
+
+export default {
+    namespaced: true,
+    state: $state,
+    getters: $getters,
+    actions: $actions,
+    mutations: $mutations
+};

@@ -1,0 +1,22 @@
+{
+  "welcome": "witamy",
+  "username": "nazwa użytkownika",
+  "password": "hasło",
+  "login": "zaloguj",
+  "notFound": "nie znaleziono",
+  "notFoundMessage": "Oops nie możemy znaleźć podanej strony. Spróbuj przejść do {0}.",
+  "home": "strony głównej",
+  "company": "firma",
+  "profile": "profil",
+  "settings": "ustawienia",
+  "logout": "wyloguj",
+  "active": "aktywny",
+  "nonactive": "nieaktywny",
+  "homePage": "Strona główna",
+  "aboutPage": "O nas",
+  "galleryPage": "Galeria",
+  "savedPage": "Zapisane",
+  "language": "język",
+  "save": "zapisz",
+  "saveChangesAdvertisement": "Pamiętaj, aby zapisać wszystkie zmiany, w przeciwnym razie znikną."
+}

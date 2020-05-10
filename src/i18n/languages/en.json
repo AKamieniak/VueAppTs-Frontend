@@ -1,0 +1,22 @@
+{
+  "welcome": "welcome",
+  "username": "username",
+  "password": "password",
+  "login": "login",
+  "notFound": "not Found",
+  "notFoundMessage": "Oops we couldn't find that page. Try going {0}.",
+  "home": "home",
+  "company": "company",
+  "profile": "profile",
+  "settings": "settings",
+  "logout": "logout",
+  "active": "active",
+  "nonactive": "nonactive",
+  "homePage": "Home",
+  "aboutPage": "About",
+  "galleryPage": "Gallery",
+  "savedPage": "Saved",
+  "language": "language",
+  "save": "save",
+  "saveChangesAdvertisement": "Remember to save all your changes, otherwise they will disappear."
+}
