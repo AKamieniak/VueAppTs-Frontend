@@ -1,4 +1,3 @@
-# first-app-vue
 # VueAppTs-Frontend
 
 ### Using:
